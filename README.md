@@ -14,20 +14,18 @@ Try [this article][bbcoder] and let me know if it works. You'll want to use XML 
 
 [bbcoder]: http://www.barebonescoder.com/2010/05/android-development-using-custom-fonts/
 
-## Process
-
-1. (manual) Get the API key, then call the `/radicals` method with all levels enabled
-2. Download all the radical PNGs
-3. Convert them to a format suitable for [potrace][pt] (and invert), then to SVG
-4. Use [FontCustom][fc] to make a webfont & preview page
-
 ## Prerequisites
 
 * potrace
 * ImageMagick
 * FontCustom
 
-## Usage
+## Process
+
+1. (manual) Get the API key, then call the `/radicals` method with all levels enabled
+2. Download all the radical PNGs
+3. Convert them to a format suitable for [potrace][pt] (and invert), then to SVG
+4. Use [FontCustom][fc] to make a webfont & preview page
 
 To make the font, run `./Shakefile.sh` and wait. If everything is OK, you'll get font, CSS and preview page in the `dist/` dir. If you just want to get PNGs or convert them to SVGs, you can run `python download.py` or `bash convert.sh`.
 
