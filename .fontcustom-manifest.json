@@ -1,0 +1,383 @@
+{
+  "checksum": {
+    "previous": "84d2346294e0fe03f891b6e18afdf570b9f735a81a422de84b54115803386b26",
+    "current": "84d2346294e0fe03f891b6e18afdf570b9f735a81a422de84b54115803386b26"
+  },
+  "fonts": [
+    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.ttf",
+    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.svg",
+    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.woff",
+    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.eot"
+  ],
+  "glyphs": {
+    "animal": {
+      "codepoint": 61696,
+      "source": "svg/animal.svg"
+    },
+    "arrows": {
+      "codepoint": 61697,
+      "source": "svg/arrows.svg"
+    },
+    "bar": {
+      "codepoint": 61698,
+      "source": "svg/bar.svg"
+    },
+    "bear": {
+      "codepoint": 61699,
+      "source": "svg/bear.svg"
+    },
+    "beggar": {
+      "codepoint": 61700,
+      "source": "svg/beggar.svg"
+    },
+    "black-hole": {
+      "codepoint": 61701,
+      "source": "svg/black-hole.svg"
+    },
+    "blackjack": {
+      "codepoint": 61702,
+      "source": "svg/blackjack.svg"
+    },
+    "boob": {
+      "codepoint": 61703,
+      "source": "svg/boob.svg"
+    },
+    "bookshelf": {
+      "codepoint": 61704,
+      "source": "svg/bookshelf.svg"
+    },
+    "butcher": {
+      "codepoint": 61705,
+      "source": "svg/butcher.svg"
+    },
+    "cactus": {
+      "codepoint": 61706,
+      "source": "svg/cactus.svg"
+    },
+    "cat-pirate": {
+      "codepoint": 61707,
+      "source": "svg/cat-pirate.svg"
+    },
+    "chester": {
+      "codepoint": 61708,
+      "source": "svg/chester.svg"
+    },
+    "chinese": {
+      "codepoint": 61709,
+      "source": "svg/chinese.svg"
+    },
+    "circus": {
+      "codepoint": 61710,
+      "source": "svg/circus.svg"
+    },
+    "cleat": {
+      "codepoint": 61711,
+      "source": "svg/cleat.svg"
+    },
+    "cloak": {
+      "codepoint": 61712,
+      "source": "svg/cloak.svg"
+    },
+    "clown": {
+      "codepoint": 61713,
+      "source": "svg/clown.svg"
+    },
+    "coffin": {
+      "codepoint": 61714,
+      "source": "svg/coffin.svg"
+    },
+    "comb": {
+      "codepoint": 61715,
+      "source": "svg/comb.svg"
+    },
+    "corn": {
+      "codepoint": 61716,
+      "source": "svg/corn.svg"
+    },
+    "cow-god": {
+      "codepoint": 61717,
+      "source": "svg/cow-god.svg"
+    },
+    "creeper": {
+      "codepoint": 61718,
+      "source": "svg/creeper.svg"
+    },
+    "death-star": {
+      "codepoint": 61719,
+      "source": "svg/death-star.svg"
+    },
+    "egg": {
+      "codepoint": 61720,
+      "source": "svg/egg.svg"
+    },
+    "explosion": {
+      "codepoint": 61721,
+      "source": "svg/explosion.svg"
+    },
+    "fish-stick": {
+      "codepoint": 61722,
+      "source": "svg/fish-stick.svg"
+    },
+    "fish-tail": {
+      "codepoint": 61723,
+      "source": "svg/fish-tail.svg"
+    },
+    "flowers": {
+      "codepoint": 61724,
+      "source": "svg/flowers.svg"
+    },
+    "football": {
+      "codepoint": 61725,
+      "source": "svg/football.svg"
+    },
+    "four": {
+      "codepoint": 61726,
+      "source": "svg/four.svg"
+    },
+    "gambler": {
+      "codepoint": 61727,
+      "source": "svg/gambler.svg"
+    },
+    "geoduck": {
+      "codepoint": 61728,
+      "source": "svg/geoduck.svg"
+    },
+    "grass": {
+      "codepoint": 61729,
+      "source": "svg/grass.svg"
+    },
+    "greenhouse": {
+      "codepoint": 61730,
+      "source": "svg/greenhouse.svg"
+    },
+    "gun": {
+      "codepoint": 61731,
+      "source": "svg/gun.svg"
+    },
+    "hat": {
+      "codepoint": 61732,
+      "source": "svg/hat.svg"
+    },
+    "hercules": {
+      "codepoint": 61733,
+      "source": "svg/hercules.svg"
+    },
+    "hick": {
+      "codepoint": 61734,
+      "source": "svg/hick.svg"
+    },
+    "hills": {
+      "codepoint": 61735,
+      "source": "svg/hills.svg"
+    },
+    "horns": {
+      "codepoint": 61736,
+      "source": "svg/horns.svg"
+    },
+    "key": {
+      "codepoint": 61737,
+      "source": "svg/key.svg"
+    },
+    "kick": {
+      "codepoint": 61738,
+      "source": "svg/kick.svg"
+    },
+    "lantern": {
+      "codepoint": 61739,
+      "source": "svg/lantern.svg"
+    },
+    "leaf": {
+      "codepoint": 61740,
+      "source": "svg/leaf.svg"
+    },
+    "mohawk": {
+      "codepoint": 61741,
+      "source": "svg/mohawk.svg"
+    },
+    "morning": {
+      "codepoint": 61742,
+      "source": "svg/morning.svg"
+    },
+    "mustache": {
+      "codepoint": 61743,
+      "source": "svg/mustache.svg"
+    },
+    "nailbat": {
+      "codepoint": 61744,
+      "source": "svg/nailbat.svg"
+    },
+    "ox": {
+      "codepoint": 61745,
+      "source": "svg/ox.svg"
+    },
+    "pi": {
+      "codepoint": 61746,
+      "source": "svg/pi.svg"
+    },
+    "poem": {
+      "codepoint": 61747,
+      "source": "svg/poem.svg"
+    },
+    "pool": {
+      "codepoint": 61748,
+      "source": "svg/pool.svg"
+    },
+    "pope": {
+      "codepoint": 61749,
+      "source": "svg/pope.svg"
+    },
+    "potato": {
+      "codepoint": 61750,
+      "source": "svg/potato.svg"
+    },
+    "propaganda": {
+      "codepoint": 61751,
+      "source": "svg/propaganda.svg"
+    },
+    "psychopath": {
+      "codepoint": 61752,
+      "source": "svg/psychopath.svg"
+    },
+    "ribs": {
+      "codepoint": 61753,
+      "source": "svg/ribs.svg"
+    },
+    "rocket": {
+      "codepoint": 61754,
+      "source": "svg/rocket.svg"
+    },
+    "roof": {
+      "codepoint": 61755,
+      "source": "svg/roof.svg"
+    },
+    "sauron": {
+      "codepoint": 61756,
+      "source": "svg/sauron.svg"
+    },
+    "saw": {
+      "codepoint": 61757,
+      "source": "svg/saw.svg"
+    },
+    "shark": {
+      "codepoint": 61758,
+      "source": "svg/shark.svg"
+    },
+    "sick": {
+      "codepoint": 61759,
+      "source": "svg/sick.svg"
+    },
+    "signpost": {
+      "codepoint": 61760,
+      "source": "svg/signpost.svg"
+    },
+    "slice": {
+      "codepoint": 61761,
+      "source": "svg/slice.svg"
+    },
+    "slinky": {
+      "codepoint": 61762,
+      "source": "svg/slinky.svg"
+    },
+    "sock": {
+      "codepoint": 61763,
+      "source": "svg/sock.svg"
+    },
+    "spikes": {
+      "codepoint": 61764,
+      "source": "svg/spikes.svg"
+    },
+    "splinter": {
+      "codepoint": 61765,
+      "source": "svg/splinter.svg"
+    },
+    "squid": {
+      "codepoint": 61766,
+      "source": "svg/squid.svg"
+    },
+    "stick": {
+      "codepoint": 61767,
+      "source": "svg/stick.svg"
+    },
+    "superman": {
+      "codepoint": 61768,
+      "source": "svg/superman.svg"
+    },
+    "tofu": {
+      "codepoint": 61769,
+      "source": "svg/tofu.svg"
+    },
+    "tombstone": {
+      "codepoint": 61770,
+      "source": "svg/tombstone.svg"
+    },
+    "train": {
+      "codepoint": 61771,
+      "source": "svg/train.svg"
+    },
+    "triceratops": {
+      "codepoint": 61772,
+      "source": "svg/triceratops.svg"
+    },
+    "trident": {
+      "codepoint": 61773,
+      "source": "svg/trident.svg"
+    },
+    "tsunami": {
+      "codepoint": 61774,
+      "source": "svg/tsunami.svg"
+    },
+    "umbrella": {
+      "codepoint": 61775,
+      "source": "svg/umbrella.svg"
+    },
+    "viking": {
+      "codepoint": 61776,
+      "source": "svg/viking.svg"
+    },
+    "water-slide": {
+      "codepoint": 61777,
+      "source": "svg/water-slide.svg"
+    },
+    "womb": {
+      "codepoint": 61778,
+      "source": "svg/womb.svg"
+    },
+    "worm": {
+      "codepoint": 61779,
+      "source": "svg/worm.svg"
+    },
+    "zombie": {
+      "codepoint": 61780,
+      "source": "svg/zombie.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".radical-{{glyph}}",
+    "debug": false,
+    "font_name": "WakaFont",
+    "force": false,
+    "input": {
+      "templates": "templates",
+      "vectors": "svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "dist/css",
+      "fonts": "dist/fonts",
+      "preview": "dist/fonts",
+      "preview.html": "dist"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview.html"
+    ]
+  },
+  "templates": [
+    "dist/css/WakaFont.css",
+    "dist/templates/preview.html"
+  ]
+}
