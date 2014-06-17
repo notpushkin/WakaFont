@@ -1,0 +1,17 @@
+font_name: WakaFont
+css_selector: .radical-{{glyph}}
+autowidth: false
+no_hash: false
+
+input:
+  vectors: svg
+  templates: templates
+
+output:
+  fonts: dist/fonts
+  css: dist/css
+  preview.html: dist
+
+templates:
+ - css
+ - preview.html

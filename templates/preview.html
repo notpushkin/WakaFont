@@ -1,0 +1,151 @@
+<html>
+  <head>
+    <title>WakaFont demo</title>
+
+    <style>
+      /* Page Styles */
+
+      html {
+        font-size: 10px;
+      }
+
+      * {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background: #eeeeee;
+        color: #333;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 1.4rem;
+        line-height: 2.0rem;
+      }
+
+      a, a:visited {
+        color: #08C;
+        text-decoration: none;
+      }
+
+      a:hover, a:focus {
+        color: #005580;
+        text-decoration: underline;
+      }
+
+      header {
+        overflow: hidden;
+        padding: 2.0rem 0;
+        border-bottom: 1px solid #D4D4D4;
+        margin-bottom: 2.0rem;
+      }
+
+      header h1 {
+        color: #888;
+        float: left;
+        font-size: 3.6rem;
+        font-weight: 300;
+      }
+
+      header .right {
+        float: right;
+        font-size: 1.4rem;
+      }
+
+      .container {
+        margin: 0 auto;
+        max-width: 120.0rem;
+        min-width: 96.0rem;
+        padding: 0 4.0rem;
+        width: 90%;
+      }
+
+      .glyph {
+        display: inline-block;
+        border-bottom: 1px dotted #ccc;
+        padding: 1.0rem 0 2.0rem;
+        margin-bottom: 2.0rem;
+        margin-right: 2.0rem;
+      }
+
+      .radical {
+        background-color: #00A0F1;
+        background-image: linear-gradient(to bottom, #0AF, #0093DD);
+        display: inline-block;
+        position: relative;
+        width: 7.2rem;
+        height: 7.2rem;
+        color: #FFF;
+        font-size: 2.7rem;
+        font-weight: bold;
+        line-height: 1.8em;
+        text-align: center;
+        text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+        vertical-align: top;
+        border-radius: 3px;
+        box-shadow: 0px -3px 0px rgba(0, 0, 0, 0.2) inset, 0px 0px 10px rgba(255, 255, 255, 0.5);
+        transition: text-shadow 0.3s ease-out 0s;
+        
+        padding-top: 1.5rem;
+        font-size: 4.0rem;
+      }
+
+      .usage {
+        display: inline-block;
+        height: 7.2rem;
+      }
+
+      .usage input {
+        font-family: monospace;
+        padding: 2px 5px;
+        text-align: center;
+        display: block;
+        margin-bottom: 0.5rem;
+        width: 25.0rem;
+        height: 3.35rem;
+      }
+
+      footer {
+        color: #888;
+        font-size: 12px;
+        padding: 20px 0;
+      }
+
+      .mute {
+        opacity: .33;
+      }
+    </style>
+
+    <link rel="stylesheet" type="text/css" href="css/<%= font_name %>.css">
+
+    <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+
+  <body>
+    <div id="page" class="container">
+      <header>
+        <h1>WakaFont</h1>
+        <span class="right">
+          by <a href="http://ale.incrowd.ws/">Ale</a>
+        </span>
+      </header>
+
+      <% @glyphs.each do |name, value|
+        selector = @options[:css_selector].sub('{{glyph}}', name.to_s) %>
+        <div class="glyph">
+          <div class="radical"><i class="<%= selector[1..-1] %>"></i></div>
+          <div class="usage">
+            <input type="text" readonly onclick="this.select();" value="<%= selector %>" />
+            <input type="text" readonly onclick="this.select();" value="&amp;#x<%= value[:codepoint].to_s(16) %>;" />
+          </div>
+        </div>
+      <% end %>
+
+      <footer>
+        Made with love using <a href="http://fontcustom.com">Font Custom</a>. <span class="mute">Some or all of the material shown on this page is &copy; Tofugu LLC and was obitained using official WaniKani API. It is used on this page for demonstration purposes only.</span>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,3185 @@
+{
+
+    "user_information": null,
+    "requested_information": [
+        {
+            "character": "一",
+            "meaning": "ground",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "ハ",
+            "meaning": "fins",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "丶",
+            "meaning": "drop",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "七",
+            "meaning": "seven",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "丿",
+            "meaning": "slide",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "亅",
+            "meaning": "barb",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "二",
+            "meaning": "two",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "亠",
+            "meaning": "lid",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "人",
+            "meaning": "person",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "入",
+            "meaning": "enter",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "leaf",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/ca386aec7915ab74e52ec506ed2e532d4631bb06.png",
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "十",
+            "meaning": "cross",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "力",
+            "meaning": "power",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "勹",
+            "meaning": "enclosure",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "口",
+            "meaning": "mouth",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "gun",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/80fff71b321c8cee57db7224f5fe1daa331128b5.png",
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "土",
+            "meaning": "grave",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "大",
+            "meaning": "big",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "凶",
+            "meaning": "treasure-chest",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "道",
+            "meaning": "road",
+            "image": null,
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "両",
+            "meaning": "both",
+            "image": null,
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "友",
+            "meaning": "friend",
+            "image": null,
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "京",
+            "meaning": "capital",
+            "image": null,
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "女",
+            "meaning": "woman",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "广",
+            "meaning": "mullet",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "山",
+            "meaning": "mountain",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "川",
+            "meaning": "river",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "木",
+            "meaning": "tree",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "刀",
+            "meaning": "sword",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "工",
+            "meaning": "construction",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "ナ",
+            "meaning": "narwhal",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "丁",
+            "meaning": "nail",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "儿",
+            "meaning": "legs",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "冂",
+            "meaning": "head",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "又",
+            "meaning": "stool",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "千",
+            "meaning": "thousand",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "夕",
+            "meaning": "evening",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "子",
+            "meaning": "child",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "小",
+            "meaning": "small",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "弓",
+            "meaning": "spring",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "尸",
+            "meaning": "flag",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "彡",
+            "meaning": "hair",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "triceratops",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/f12384bff66bcddd1f6132e7188096ce6919908a.png",
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "半",
+            "meaning": "half",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "五",
+            "meaning": "five",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "天",
+            "meaning": "heaven",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "者",
+            "meaning": "someone",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "手",
+            "meaning": "hand",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "文",
+            "meaning": "doll",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "月",
+            "meaning": "moon",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "止",
+            "meaning": "stop",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "水",
+            "meaning": "water",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "火",
+            "meaning": "fire",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "犬",
+            "meaning": "dog",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "王",
+            "meaning": "king",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "中",
+            "meaning": "middle",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "本",
+            "meaning": "real",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "田",
+            "meaning": "rice-paddy",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "白",
+            "meaning": "white",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "目",
+            "meaning": "eye",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "石",
+            "meaning": "stone",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "立",
+            "meaning": "stand",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "L",
+            "meaning": "lion",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "ヒ",
+            "meaning": "spoon",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "ラ",
+            "meaning": "ra",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "hat",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/23c56c9fb6176a94fb4f3771a5bde10a7feb54b5.png",
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "久",
+            "meaning": "raptor-cage",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "漢",
+            "meaning": "chinese",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/f8468de103aa5ef0f364210cb5353721778b86a1.png",
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "夂",
+            "meaning": "winter",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "干",
+            "meaning": "antennae",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "nailbat",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/567ab898debea47f9381128cc5c1fd984e511954.png",
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "元",
+            "meaning": "origin",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "心",
+            "meaning": "heart",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "方",
+            "meaning": "direction",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "毛",
+            "meaning": "fur",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "父",
+            "meaning": "father",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "古",
+            "meaning": "old",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "母",
+            "meaning": "drawer",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "用",
+            "meaning": "elephant",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "矢",
+            "meaning": "arrow",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "戸",
+            "meaning": "door",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "寸",
+            "meaning": "measurement",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "ｲ",
+            "meaning": "leader",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "冖",
+            "meaning": "forehead",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "beggar",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/2f5980f0f8444e1c0a08dcb2f5d5170addfe858f.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "horns",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/6c840a98b2f09f21b1f7c90c79679ac30110985c.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "也",
+            "meaning": "alligator",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "宀",
+            "meaning": "helmet",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "弋",
+            "meaning": "ceremony",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "ネ",
+            "meaning": "pelican",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "支",
+            "meaning": "frog",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "世",
+            "meaning": "generation",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "皿",
+            "meaning": "plate",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "分",
+            "meaning": "part",
+            "image": null,
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": "竹",
+            "meaning": "bamboo",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "糸",
+            "meaning": "thread",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "幺",
+            "meaning": "poop",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "耳",
+            "meaning": "ear",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "虫",
+            "meaning": "insect",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "flowers",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/c1fc9848226d1590476bf38bfd173f1420ef1a8b.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "見",
+            "meaning": "see",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "赤",
+            "meaning": "red",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "車",
+            "meaning": "car",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "貝",
+            "meaning": "clam",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "足",
+            "meaning": "foot",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "不",
+            "meaning": "not",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "士",
+            "meaning": "samurai",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "米",
+            "meaning": "rice",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "彳",
+            "meaning": "loiter",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "巴",
+            "meaning": "bed",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "pi",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/b47c545f3d93d411c5a3cb11b46cc989117d6d29.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "巾",
+            "meaning": "two-face",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "coffin",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a7a9881c4874c9ed74efbbf01ab709d0ed5f2bbd.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "气",
+            "meaning": "energy",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "冊",
+            "meaning": "books",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "ヨ",
+            "meaning": "wolverine",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "廾",
+            "meaning": "twenty",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "毋",
+            "meaning": "window",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "肉",
+            "meaning": "meat",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "自",
+            "meaning": "self",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "色",
+            "meaning": "color",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "行",
+            "meaning": "go",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "西",
+            "meaning": "west",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "可",
+            "meaning": "lip-ring",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "斤",
+            "meaning": "axe",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "厂",
+            "meaning": "cliff",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "金",
+            "meaning": "gold",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "青",
+            "meaning": "blue",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "kick",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/822cfe52414225516f979a8020ab9e66963f2b7c.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "key",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a0f24ac779b5feb90fb5f6c1577b6abaab82c969.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "冫",
+            "meaning": "ice",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "走",
+            "meaning": "run",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "里",
+            "meaning": "sunflower",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "viking",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/2aae1ef455429bf7a7655b13cfc8cb96adad64ad.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "mustache",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/ab694daa51cee01840e6ddce835c0c7b7b4bb55b.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "牛",
+            "meaning": "cow",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "凵",
+            "meaning": "box",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "ribs",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/17f4f0d63b58cbb701fd277f0e735588472383e8.png",
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "斗",
+            "meaning": "chopsticks",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "鳥",
+            "meaning": "bird",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "ホ",
+            "meaning": "angel",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "歹",
+            "meaning": "bad",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "向",
+            "meaning": "cyclops",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "未",
+            "meaning": "jet",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "禾",
+            "meaning": "pine",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "羊",
+            "meaning": "sheep",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "長",
+            "meaning": "long",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "血",
+            "meaning": "blood",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "食",
+            "meaning": "eat",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "ム",
+            "meaning": "pile",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": "マ",
+            "meaning": "mama",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "fish-tail",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/95bc99cb27b0cecf869449b20ab584fc33eefab3.png",
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "九",
+            "meaning": "nine",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "占",
+            "meaning": "fortune",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "animal",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/2d0ad69e2d753983909a28f9dfc61c09363782fd.png",
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "卩",
+            "meaning": "stamp",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "欠",
+            "meaning": "lack",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "氏",
+            "meaning": "duck",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "矛",
+            "meaning": "soldier",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "舟",
+            "meaning": "sail",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "魚",
+            "meaning": "fish",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "夫",
+            "meaning": "husband",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "央",
+            "meaning": "central",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "正",
+            "meaning": "correct",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "品",
+            "meaning": "products",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "黄",
+            "meaning": "yellow",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "黒",
+            "meaning": "black",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "主",
+            "meaning": "master",
+            "image": null,
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "会",
+            "meaning": "meet",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "首",
+            "meaning": "neck",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "ユ",
+            "meaning": "hook",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "巳",
+            "meaning": "snake",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "云",
+            "meaning": "boobs",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "殳",
+            "meaning": "ikea",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "比",
+            "meaning": "compare",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "片",
+            "meaning": "waiter",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "sauron",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/1c04f55a5cab63c14d08259d61c057875cca66bd.png",
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "釆",
+            "meaning": "sickle",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "馬",
+            "meaning": "horse",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "cleat",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a4984a16b4a291a5099d422b202071a923e20729.png",
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "介",
+            "meaning": "hut",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "史",
+            "meaning": "history",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "癶",
+            "meaning": "tent",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "周",
+            "meaning": "ghost",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "hick",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/d3012a9c7a28e083ae268a46f3976e4d879b204a.png",
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "poem",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/d32176c952f9616d55eefb4a478456fd0508942c.png",
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "worm",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/60cce3d76a2210824934615d5534538648ef3746.png",
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": "吉",
+            "meaning": "longcat",
+            "image": null,
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": "市",
+            "meaning": "city",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "穴",
+            "meaning": "hole",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "pope",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/237370c5ef128a5383e8b4c41f82c10795e90af5.png",
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "lantern",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/b5871955f7004a547c16eeb647d0b73c45910120.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "勿",
+            "meaning": "wing",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "舌",
+            "meaning": "tongue",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "辛",
+            "meaning": "spicy",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "clown",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/6271291ef535cf0e3bac58e6e6044358bab6923a.png",
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "butcher",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/208e67ec18eca931fe9430188c0be8a4969d2e34.png",
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "几",
+            "meaning": "table",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "tombstone",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/42c300d34371f649df61ce05599ebee107c5222b.png",
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "各",
+            "meaning": "kiss",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "豆",
+            "meaning": "beans",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "酉",
+            "meaning": "alcohol",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "superman",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/3d80dc5008f2936ec19ece427bc61b78bd7df2cb.png",
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "易",
+            "meaning": "gravity",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "geoduck",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/9e771208ca1bc5a0164e096eca5bf677d23aeb55.png",
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "曲",
+            "meaning": "music",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "丙",
+            "meaning": "dynamite",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "風",
+            "meaning": "wind",
+            "image": null,
+            "level": 44,
+            "user_specific": null
+        },
+        {
+            "character": "重",
+            "meaning": "heavy",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "令",
+            "meaning": "orders",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "虍",
+            "meaning": "tiger",
+            "image": null,
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": "昔",
+            "meaning": "long-ago",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "斉",
+            "meaning": "stilts",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "交",
+            "meaning": "mix",
+            "image": null,
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "blackjack",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/fabacff48519ca618e625e41122ffc88defbd458.png",
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "戈",
+            "meaning": "drunkard",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "bear",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/b28490c3120f080ee2a5e3e1700d581d671d5bd7.png",
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "兄",
+            "meaning": "older-brother",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "及",
+            "meaning": "escalator",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "艮",
+            "meaning": "good",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "音",
+            "meaning": "sound",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "少",
+            "meaning": "few",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "単",
+            "meaning": "witch-doctor",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "乃",
+            "meaning": "stairs",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "tofu",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/9b86ac7a359d8dc88169e5ab9abd3ef40a85b062.png",
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "早",
+            "meaning": "early",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "太",
+            "meaning": "fat",
+            "image": null,
+            "level": 46,
+            "user_specific": null
+        },
+        {
+            "character": "真",
+            "meaning": "reality",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "亜",
+            "meaning": "tie-fighter",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "其",
+            "meaning": "crab",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "廴",
+            "meaning": "big-bird",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "示",
+            "meaning": "jackhammer",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "免",
+            "meaning": "excuse",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "非",
+            "meaning": "injustice",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "stick",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/802e9542627291d4282601ded41ad16ce915f60f.png",
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "spikes",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/e2071e9778ee68e975ed2e215de0ab71ec77bdaa.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "water-slide",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/bed4e20d48bcb3c86ae9822620f2e616c12958f1.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "弟",
+            "meaning": "younger-brother",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "hills",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/84dc398f125c5680eccb1a331a87bf42bced08e1.png",
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "寺",
+            "meaning": "temple",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "生",
+            "meaning": "life",
+            "image": null,
+            "level": 3,
+            "user_specific": null
+        },
+        {
+            "character": "反",
+            "meaning": "devil",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "umbrella",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/df668bc6c72e926fb9533b97161470af54b312cd.png",
+            "level": 4,
+            "user_specific": null
+        },
+        {
+            "character": "亡",
+            "meaning": "death",
+            "image": null,
+            "level": 6,
+            "user_specific": null
+        },
+        {
+            "character": "先",
+            "meaning": "previous",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "羽",
+            "meaning": "feathers",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "申",
+            "meaning": "say-humbly",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "門",
+            "meaning": "gate",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "train",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/044b209e24465c1512fd73b8f23f5d456db49ffb.png",
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "区",
+            "meaning": "district",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "責",
+            "meaning": "blame",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "匚",
+            "meaning": "cage",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "tsunami",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/b41d676a1e147412819cf09e13e9abcae5cf696f.png",
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "メ",
+            "meaning": "treasure",
+            "image": null,
+            "level": 2,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "cloak",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/237aaacdc8501508926688f6db2e3811249d7e0b.png",
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": "束",
+            "meaning": "ent",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "聿",
+            "meaning": "brush",
+            "image": null,
+            "level": 9,
+            "user_specific": null
+        },
+        {
+            "character": "尺",
+            "meaning": "shrimp",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "意",
+            "meaning": "idea",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "roof",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/20f3a2b761a9ccf14c2e987daaef41db09e7a805.png",
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "東",
+            "meaning": "east",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "丸",
+            "meaning": "circle",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "共",
+            "meaning": "together",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "日",
+            "meaning": "sun",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "果",
+            "meaning": "fruit",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "fish-stick",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a5806d6feb1643c9adf7b996dedfce97bd61dee8.png",
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "幸",
+            "meaning": "happiness",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "司",
+            "meaning": "flasher",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "才",
+            "meaning": "genius",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "成",
+            "meaning": "become",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "至",
+            "meaning": "boob-grave",
+            "image": null,
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "兼",
+            "meaning": "mona-lisa",
+            "image": null,
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "飛",
+            "meaning": "fly",
+            "image": null,
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "焼",
+            "meaning": "gambler",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/5f6e813ac70d5d1314e32b1449420a11523916d5.png",
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "必",
+            "meaning": "certain",
+            "image": null,
+            "level": 32,
+            "user_specific": null
+        },
+        {
+            "character": "玄",
+            "meaning": "mysterious",
+            "image": null,
+            "level": 48,
+            "user_specific": null
+        },
+        {
+            "character": "鬲",
+            "meaning": "tights",
+            "image": null,
+            "level": 49,
+            "user_specific": null
+        },
+        {
+            "character": "ト",
+            "meaning": "toe",
+            "image": null,
+            "level": 1,
+            "user_specific": null
+        },
+        {
+            "character": "複",
+            "meaning": "black-hole",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/fe7f5ebb61ba2120d3a5f76dda4dbb7b308838ec.png",
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": "角",
+            "meaning": "angle",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "番",
+            "meaning": "number",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "平",
+            "meaning": "peace",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "次",
+            "meaning": "next",
+            "image": null,
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "能",
+            "meaning": "ability",
+            "image": null,
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": "充",
+            "meaning": "outhouse",
+            "image": null,
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "slinky",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/1a81852260237af8f6feb8caa3782d0f3e1be5d4.png",
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": "呂",
+            "meaning": "bathtub",
+            "image": null,
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": "革",
+            "meaning": "leather",
+            "image": null,
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "面",
+            "meaning": "robot",
+            "image": null,
+            "level": 16,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "bar",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/8b88cb93ff294c3bd7d25b10222b7cc2cec977ef.png",
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "squid",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/01b0adced57d69b8cd5e0d0db4b62b49d6b81de9.png",
+            "level": 16,
+            "user_specific": null
+        },
+        {
+            "character": "谷",
+            "meaning": "valley",
+            "image": null,
+            "level": 16,
+            "user_specific": null
+        },
+        {
+            "character": "付",
+            "meaning": "glue",
+            "image": null,
+            "level": 16,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "zombie",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/fa7992323211a5d9141b8cbcb527c23b965a74d7.png",
+            "level": 16,
+            "user_specific": null
+        },
+        {
+            "character": "争",
+            "meaning": "conflict",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "由",
+            "meaning": "reason",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "arrows",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/500b3fb45a97d9ecfce8ec603766b4df217f2f4a.png",
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "失",
+            "meaning": "fault",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "楽",
+            "meaning": "comfort",
+            "image": null,
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": "隹",
+            "meaning": "turkey",
+            "image": null,
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "安",
+            "meaning": "cheap",
+            "image": null,
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": "百",
+            "meaning": "hundred",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "身",
+            "meaning": "somebody",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "原",
+            "meaning": "diamond",
+            "image": null,
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "womb",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a7a78298552f3c10f2dd970dace455b196118d84.png",
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "容",
+            "meaning": "form",
+            "image": null,
+            "level": 48,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "explosion",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/4e1d6998ef91bba7a32b712d625806bd7758de79.png",
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "井",
+            "meaning": "well",
+            "image": null,
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": "今",
+            "meaning": "now",
+            "image": null,
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": "公",
+            "meaning": "public",
+            "image": null,
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": "歩",
+            "meaning": "walk",
+            "image": null,
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": "男",
+            "meaning": "man",
+            "image": null,
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": "句",
+            "meaning": "paragraph",
+            "image": null,
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "saw",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/2c88a5996473bd6cdcc5ccd4ee6fe61310a0ef92.png",
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "grass",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/016299a6054d3c70d3c394a639221773b431d84c.png",
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": "豕",
+            "meaning": "pig",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "four",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/591cecada38c5e4056065254345dbfbf39e5d424.png",
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "然",
+            "meaning": "nature",
+            "image": null,
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": "制",
+            "meaning": "control",
+            "image": null,
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": "旦",
+            "meaning": "sunrise",
+            "image": null,
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": "鬼",
+            "meaning": "demon",
+            "image": null,
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "亭",
+            "meaning": "nailgun",
+            "image": null,
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "egg",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/9d6bc90f6cad5bd365a076e9294a977cc3867c89.png",
+            "level": 26,
+            "user_specific": null
+        },
+        {
+            "character": "万",
+            "meaning": "ten-thousand",
+            "image": null,
+            "level": 26,
+            "user_specific": null
+        },
+        {
+            "character": "告",
+            "meaning": "announce",
+            "image": null,
+            "level": 26,
+            "user_specific": null
+        },
+        {
+            "character": "余",
+            "meaning": "surplus",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "民",
+            "meaning": "peoples",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "代",
+            "meaning": "substitute",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "農",
+            "meaning": "farming",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "comb",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/31dd44f0367dc32e123641af89edba28040a5392.png",
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "麗",
+            "meaning": "lovely",
+            "image": null,
+            "level": 28,
+            "user_specific": null
+        },
+        {
+            "character": "専",
+            "meaning": "specialty",
+            "image": null,
+            "level": 28,
+            "user_specific": null
+        },
+        {
+            "character": "屯",
+            "meaning": "thorn",
+            "image": null,
+            "level": 28,
+            "user_specific": null
+        },
+        {
+            "character": "巨",
+            "meaning": "giant",
+            "image": null,
+            "level": 28,
+            "user_specific": null
+        },
+        {
+            "character": "奇",
+            "meaning": "odd",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "上",
+            "meaning": "above",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "乙",
+            "meaning": "nose",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "臣",
+            "meaning": "servant",
+            "image": null,
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "morning",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/75a32770a958f6b881cae311f860e48b04972897.png",
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "ox",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/ec58791c44efe80ca6a40e09132d3c696dc4d6e2.png",
+            "level": 29,
+            "user_specific": null
+        },
+        {
+            "character": "召",
+            "meaning": "joker",
+            "image": null,
+            "level": 30,
+            "user_specific": null
+        },
+        {
+            "character": "甲",
+            "meaning": "turtle-shell",
+            "image": null,
+            "level": 30,
+            "user_specific": null
+        },
+        {
+            "character": "監",
+            "meaning": "oversee",
+            "image": null,
+            "level": 30,
+            "user_specific": null
+        },
+        {
+            "character": "北",
+            "meaning": "north",
+            "image": null,
+            "level": 30,
+            "user_specific": null
+        },
+        {
+            "character": "皮",
+            "meaning": "skin",
+            "image": null,
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": "化",
+            "meaning": "change",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "受",
+            "meaning": "accept",
+            "image": null,
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": "客",
+            "meaning": "guest",
+            "image": null,
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "cow-god",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/a604304f3e29507865541cb53cb0b86f2db8b85e.png",
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "death-star",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/23fd4bf82752aa42b4da2955691c2ba4a475f876.png",
+            "level": 24,
+            "user_specific": null
+        },
+        {
+            "character": "而",
+            "meaning": "rake",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "football",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/fa777121ab8f991f64c3264844f43e9894536dfe.png",
+            "level": 22,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "circus",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/62d02f859c926f0f7ea0619ed2e4e8fce4624684.png",
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "喫",
+            "meaning": "hercules",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/8a8f22dffa4a30a96b1af4588a4c0bf9ffed7913.png",
+            "level": 28,
+            "user_specific": null
+        },
+        {
+            "character": "出",
+            "meaning": "exit",
+            "image": null,
+            "level": 27,
+            "user_specific": null
+        },
+        {
+            "character": "同",
+            "meaning": "same",
+            "image": null,
+            "level": 32,
+            "user_specific": null
+        },
+        {
+            "character": "夜",
+            "meaning": "night",
+            "image": null,
+            "level": 32,
+            "user_specific": null
+        },
+        {
+            "character": "牙",
+            "meaning": "fang",
+            "image": null,
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": "並",
+            "meaning": "line-up",
+            "image": null,
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": "華",
+            "meaning": "potato",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/ebda1c3e3a7784df35167aa0ce57f6343f35c21f.png",
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": "融",
+            "meaning": "chester",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/82ae58cb06259e99b2f1c62c8e3977f7aa3143e5.png",
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "rocket",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/af6fdd6fc536e7b2626ed1b618b8715a4b0eeca5.png",
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "bookshelf",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/e80f7e1842d28403373055f2e2ccb8a6556c3763.png",
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "cat-pirate",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/0cff9e4db0bb9919470daad2c611393d552b930e.png",
+            "level": 32,
+            "user_specific": null
+        },
+        {
+            "character": "予",
+            "meaning": "beforehand",
+            "image": null,
+            "level": 12,
+            "user_specific": null
+        },
+        {
+            "character": "丈",
+            "meaning": "height",
+            "image": null,
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "mohawk",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/d9469b6dfc541533e4601c384ae1f59f3198b207.png",
+            "level": 21,
+            "user_specific": null
+        },
+        {
+            "character": "間",
+            "meaning": "interval",
+            "image": null,
+            "level": 33,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "sock",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/7e0bc2f5683a6d505713f1273ed20dd40a6a1518.png",
+            "level": 33,
+            "user_specific": null
+        },
+        {
+            "character": "内",
+            "meaning": "inside",
+            "image": null,
+            "level": 33,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "shark",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/752111703956266a14c047b75d60b11fc3082f95.png",
+            "level": 33,
+            "user_specific": null
+        },
+        {
+            "character": "蔵",
+            "meaning": "storehouse",
+            "image": null,
+            "level": 33,
+            "user_specific": null
+        },
+        {
+            "character": "呉",
+            "meaning": "catapult",
+            "image": null,
+            "level": 34,
+            "user_specific": null
+        },
+        {
+            "character": "員",
+            "meaning": "member",
+            "image": null,
+            "level": 34,
+            "user_specific": null
+        },
+        {
+            "character": "爪",
+            "meaning": "claw",
+            "image": null,
+            "level": 34,
+            "user_specific": null
+        },
+        {
+            "character": "帯",
+            "meaning": "belt",
+            "image": null,
+            "level": 35,
+            "user_specific": null
+        },
+        {
+            "character": "亀",
+            "meaning": "turtle",
+            "image": null,
+            "level": 35,
+            "user_specific": null
+        },
+        {
+            "character": "彑",
+            "meaning": "shuriken",
+            "image": null,
+            "level": 35,
+            "user_specific": null
+        },
+        {
+            "character": "為",
+            "meaning": "sake",
+            "image": null,
+            "level": 35,
+            "user_specific": null
+        },
+        {
+            "character": "去",
+            "meaning": "cemetery",
+            "image": null,
+            "level": 15,
+            "user_specific": null
+        },
+        {
+            "character": "雨",
+            "meaning": "rain",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "刻",
+            "meaning": "slice",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/2588ef42f57fe716c26f1fc54e5eab9477b38c14.png",
+            "level": 34,
+            "user_specific": null
+        },
+        {
+            "character": "明",
+            "meaning": "bright",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": "発",
+            "meaning": "departure",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": "南",
+            "meaning": "south",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "greenhouse",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/63abd2878d7c5a9ed475676f35f9c058f47e6076.png",
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "甘",
+            "meaning": "sweet",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": "右",
+            "meaning": "right",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": "兆",
+            "meaning": "omen",
+            "image": null,
+            "level": 37,
+            "user_specific": null
+        },
+        {
+            "character": "賞",
+            "meaning": "prize",
+            "image": null,
+            "level": 37,
+            "user_specific": null
+        },
+        {
+            "character": "串",
+            "meaning": "skewer",
+            "image": null,
+            "level": 37,
+            "user_specific": null
+        },
+        {
+            "character": "暴",
+            "meaning": "violence",
+            "image": null,
+            "level": 37,
+            "user_specific": null
+        },
+        {
+            "character": "思",
+            "meaning": "think",
+            "image": null,
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "県",
+            "meaning": "prefecture",
+            "image": null,
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "空",
+            "meaning": "sky",
+            "image": null,
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "有",
+            "meaning": "have",
+            "image": null,
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "歯",
+            "meaning": "tooth",
+            "image": null,
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "衣",
+            "meaning": "clothes",
+            "image": null,
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "君",
+            "meaning": "buddy",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "旧",
+            "meaning": "former",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "六",
+            "meaning": "six",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "岡",
+            "meaning": "hill",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "貴",
+            "meaning": "valuable",
+            "image": null,
+            "level": 36,
+            "user_specific": null
+        },
+        {
+            "character": "三",
+            "meaning": "three",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": "雇",
+            "meaning": "employ",
+            "image": null,
+            "level": 40,
+            "user_specific": null
+        },
+        {
+            "character": "毎",
+            "meaning": "every",
+            "image": null,
+            "level": 40,
+            "user_specific": null
+        },
+        {
+            "character": "保",
+            "meaning": "preserve",
+            "image": null,
+            "level": 40,
+            "user_specific": null
+        },
+        {
+            "character": "広",
+            "meaning": "wide",
+            "image": null,
+            "level": 41,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "cactus",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/28e84ccb932668469e3fdcadc9d3bd55b51d917e.png",
+            "level": 41,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "trident",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/197018ba1485d65fdcd18fe3a463d8f09d5f4717.png",
+            "level": 41,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "boob",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/e4838ed036799dd69074635a107ffbb55b5e4bf6.png",
+            "level": 11,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "creeper",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/9ebccb9b7446f98134948e0069effb49f49f0048.png",
+            "level": 13,
+            "user_specific": null
+        },
+        {
+            "character": "家",
+            "meaning": "house",
+            "image": null,
+            "level": 45,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "pool",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/17a852e206d5667101e444132d0fcf4a50610d6a.png",
+            "level": 14,
+            "user_specific": null
+        },
+        {
+            "character": "屋",
+            "meaning": "shop",
+            "image": null,
+            "level": 42,
+            "user_specific": null
+        },
+        {
+            "character": "臼",
+            "meaning": "grenade",
+            "image": null,
+            "level": 42,
+            "user_specific": null
+        },
+        {
+            "character": "骨",
+            "meaning": "bone",
+            "image": null,
+            "level": 42,
+            "user_specific": null
+        },
+        {
+            "character": "瓜",
+            "meaning": "melon",
+            "image": null,
+            "level": 42,
+            "user_specific": null
+        },
+        {
+            "character": "尢",
+            "meaning": "pirate",
+            "image": null,
+            "level": 43,
+            "user_specific": null
+        },
+        {
+            "character": "業",
+            "meaning": "business",
+            "image": null,
+            "level": 43,
+            "user_specific": null
+        },
+        {
+            "character": "龍",
+            "meaning": "imperial",
+            "image": null,
+            "level": 43,
+            "user_specific": null
+        },
+        {
+            "character": "耒",
+            "meaning": "redwood",
+            "image": null,
+            "level": 43,
+            "user_specific": null
+        },
+        {
+            "character": "包",
+            "meaning": "wrap",
+            "image": null,
+            "level": 44,
+            "user_specific": null
+        },
+        {
+            "character": "竜",
+            "meaning": "dragon",
+            "image": null,
+            "level": 44,
+            "user_specific": null
+        },
+        {
+            "character": "刃",
+            "meaning": "blade",
+            "image": null,
+            "level": 44,
+            "user_specific": null
+        },
+        {
+            "character": "缶",
+            "meaning": "can",
+            "image": null,
+            "level": 44,
+            "user_specific": null
+        },
+        {
+            "character": "更",
+            "meaning": "again",
+            "image": null,
+            "level": 45,
+            "user_specific": null
+        },
+        {
+            "character": "守",
+            "meaning": "protect",
+            "image": null,
+            "level": 45,
+            "user_specific": null
+        },
+        {
+            "character": "無",
+            "meaning": "nothing",
+            "image": null,
+            "level": 17,
+            "user_specific": null
+        },
+        {
+            "character": "言",
+            "meaning": "say",
+            "image": null,
+            "level": 5,
+            "user_specific": null
+        },
+        {
+            "character": "曽",
+            "meaning": "mask",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "甫",
+            "meaning": "wedding",
+            "image": null,
+            "level": 25,
+            "user_specific": null
+        },
+        {
+            "character": "求",
+            "meaning": "request",
+            "image": null,
+            "level": 31,
+            "user_specific": null
+        },
+        {
+            "character": "合",
+            "meaning": "suit",
+            "image": null,
+            "level": 8,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "propaganda",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/3dd13f53c697471cbe874e0679001c23f649a24b.png",
+            "level": 38,
+            "user_specific": null
+        },
+        {
+            "character": "恵",
+            "meaning": "favor",
+            "image": null,
+            "level": 46,
+            "user_specific": null
+        },
+        {
+            "character": "波",
+            "meaning": "wave",
+            "image": null,
+            "level": 47,
+            "user_specific": null
+        },
+        {
+            "character": "務",
+            "meaning": "task",
+            "image": null,
+            "level": 47,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "sick",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/979c49d8d7834b52e946fefe914c9ffa4dd848d2.png",
+            "level": 10,
+            "user_specific": null
+        },
+        {
+            "character": "光",
+            "meaning": "sunlight",
+            "image": null,
+            "level": 48,
+            "user_specific": null
+        },
+        {
+            "character": "甚",
+            "meaning": "crab-trap",
+            "image": null,
+            "level": 49,
+            "user_specific": null
+        },
+        {
+            "character": "回",
+            "meaning": "times",
+            "image": null,
+            "level": 49,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "splinter",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/37c063c71f74041853ca965705be852bae1dc0ae.png",
+            "level": 50,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "psychopath",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/ca255a49b2bbcdb899f5bd7b3eed8cad5c98ef0b.png",
+            "level": 50,
+            "user_specific": null
+        },
+        {
+            "character": "名",
+            "meaning": "name",
+            "image": null,
+            "level": 50,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "corn",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/6129f791e38bf8bdf4ccc3643732e56f84ccf4f0.png",
+            "level": 23,
+            "user_specific": null
+        },
+        {
+            "character": "豸",
+            "meaning": "badger",
+            "image": null,
+            "level": 43,
+            "user_specific": null
+        },
+        {
+            "character": "巻",
+            "meaning": "scroll",
+            "image": null,
+            "level": 39,
+            "user_specific": null
+        },
+        {
+            "character": null,
+            "meaning": "signpost",
+            "image": "https://s3.amazonaws.com/s3.wanikani.com/images/radicals/32160b776c6db6d617929c99e9a146b1961ba6d8.png",
+            "level": 41,
+            "user_specific": null
+        },
+        {
+            "character": "系",
+            "meaning": "lineage",
+            "image": null,
+            "level": 30,
+            "user_specific": null
+        },
+        {
+            "character": "午",
+            "meaning": "noon",
+            "image": null,
+            "level": 18,
+            "user_specific": null
+        },
+        {
+            "character": "己",
+            "meaning": "cobra",
+            "image": null,
+            "level": 7,
+            "user_specific": null
+        },
+        {
+            "character": "義",
+            "meaning": "righteousness",
+            "image": null,
+            "level": 20,
+            "user_specific": null
+        },
+        {
+            "character": "我",
+            "meaning": "ego",
+            "image": null,
+            "level": 19,
+            "user_specific": null
+        }
+    ]
+
+}
