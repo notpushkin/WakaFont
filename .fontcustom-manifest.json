@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "84d2346294e0fe03f891b6e18afdf570b9f735a81a422de84b54115803386b26",
-    "current": "84d2346294e0fe03f891b6e18afdf570b9f735a81a422de84b54115803386b26"
+    "previous": "0171c8d52806f1098628c00a932db286aecff689f88faa6713fc22991b743cce",
+    "current": "0171c8d52806f1098628c00a932db286aecff689f88faa6713fc22991b743cce"
   },
   "fonts": [
-    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.ttf",
-    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.svg",
-    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.woff",
-    "dist/fonts/WakaFont_84d2346294e0fe03f891b6e18afdf570.eot"
+    "dist/fonts/WakaFont_0171c8d52806f1098628c00a932db286.ttf",
+    "dist/fonts/WakaFont_0171c8d52806f1098628c00a932db286.svg",
+    "dist/fonts/WakaFont_0171c8d52806f1098628c00a932db286.woff",
+    "dist/fonts/WakaFont_0171c8d52806f1098628c00a932db286.eot"
   ],
   "glyphs": {
     "animal": {
@@ -109,6 +109,10 @@
     "egg": {
       "codepoint": 61720,
       "source": "svg/egg.svg"
+    },
+    "elf": {
+      "codepoint": 61781,
+      "source": "svg/elf.svg"
     },
     "explosion": {
       "codepoint": 61721,
@@ -250,6 +254,10 @@
       "codepoint": 61755,
       "source": "svg/roof.svg"
     },
+    "satellite": {
+      "codepoint": 61782,
+      "source": "svg/satellite.svg"
+    },
     "sauron": {
       "codepoint": 61756,
       "source": "svg/sauron.svg"
@@ -356,6 +364,10 @@
     "config": "fontcustom.yml",
     "css_selector": ".radical-{{glyph}}",
     "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
     "font_name": "WakaFont",
     "force": false,
     "input": {
@@ -378,6 +390,6 @@
   },
   "templates": [
     "dist/css/WakaFont.css",
-    "dist/templates/preview.html"
+    "dist/preview.html"
   ]
 }
